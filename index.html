@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+
+<html lang="en-us">
+
+    <head>
+
+        <meta charset="UTF-8">
+        <meta name="author" content="Aditi">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Trivia Game</title>
+        
+        <!-- Added a link to Reset CSS-->
+        <link rel="stylesheet" href="assets/css/reset.css"> 
+
+        <!-- Added a link to Bootstrap-->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+                       
+        <!-- Added a link to CSS-->
+        <link rel="stylesheet" href="assets/css/style.css">
+
+        <!--Font import-->
+        <link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
+        
+        
+        <link href="https://fonts.googleapis.com/css?family=Yeon+Sung|Creepster|Sancreek" rel="stylesheet">        
+        <link href="https://fonts.googleapis.com/css?family=Concert+One|Courgette|Chewy|Permanent+Marker|Rock+Salt" rel="stylesheet">
+    </head>
+    <body>
+               
+    <!-- Jumbotron for Title -->
+    
+    <div class="jumbotron">
+        <h1 class="text-center">HARRY POTTER QUIZZ MANIA!!</h1>            
+    </div>
+    
+    <div class="container">      
+        <div class="card mb-2 rules">
+            <h3 class="card-header">Game rules:</h3>
+            <div class="card-body">
+                You will be given 10 questions to answer.<br>
+                Select the correct answer out of the 4 choices provided for each question.<br>
+                You will have 15 seconds to answer each question.
+                <hr> 
+                <a href="#" id="startgame" class="btn btn-primary btn-lg btn-block ">START GAME</a> <br>   
+            </div>
+        </div>    
+       
+            <div class="score"></div>
+            <div class="timer text-center"></div>
+            <br>
+            <div class="question"></div>
+            <div class="row">
+				<div class="col-md-12 info"></div>
+			</div>
+           
+            <div class="choice option1"></div>
+            <div class="choice option2"></div>
+            <div class="choice option3"></div>
+            <div class="choice option4"></div>
+            
+         
+    </div>
+    <!-- jQuery -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    
+    <!-- Script -->
+    <script type="text/javascript" src="assets/javascript/game.js"></script>
+    
+    </body>
+
+</html>
