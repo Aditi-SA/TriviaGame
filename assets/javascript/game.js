@@ -1,99 +1,99 @@
 var q1 = {
 	question: "Which of the Deathly Hallows does Harry receive as a Christmas gift??",
-	option1: "  Elder Wand",
-	option2: "  Cloak of Invisibility",
-	option3: "  Resurrection Stone",
-	option4: "  Deluminator",
+	option1: "Elder Wand",
+	option2: "Cloak of Invisibility",
+	option3: "Resurrection Stone",
+	option4: "Deluminator",
 	answer: "Cloak of Invisibility",
 	info: "<img src='assets/images/q1.jpg'"	
 };
 
 var q2 = {
 	question: "Who destroyed the last remaining horcrux?",
-	option1: " Hermoine Granger",
-	option2: " Voldemort",
-	option3: " Harry Potter",
-	option4: " Neville Longbottom",
+	option1: "Hermoine Granger",
+	option2: "Voldemort",
+	option3: "Harry Potter",
+	option4: "Neville Longbottom",
 	answer: "Neville Longbottom",
 	info: "<img src='assets/images/q2.jpg"
 };
 
 var q3 = {
 	question: "Which of the following is NOT a protection for the Philosopher's (Sorcerer's) Stone?",
-	option1: " Cornish Pixies",
-	option2: " Devil's Snare",
-	option3: " Wizards Chess",
-	option4: " Mirror of Erised",
+	option1: "Cornish Pixies",
+	option2: "Devil's Snare",
+	option3: "Wizards Chess",
+	option4: "Mirror of Erised",
 	answer: "Cornish Pixies",
 	info: "<img src='assets/images/q3.jpg'>"
 };
 
 var q4 = {
 	question: "Which of the following was NOT a Death Eater?",
-	option1: " Bathilda Bagshot",
-	option2: " Lucius Malfoy",
-	option3: " Bartemious Crouch Jr.",
-	option4: " Bellatrix Lestrange",
+	option1: "Bathilda Bagshot",
+	option2: "Lucius Malfoy",
+	option3: "Bartemious Crouch Jr.",
+	option4: "Bellatrix Lestrange",
 	answer: "Bathilda Bagshot",
 	info: "<img src='assets/images/q4.jpg'>"
 };
 
 var q5 = {
 	question: "What establishment does Aberforth Dumbledore own and run?",
-	option1: " Three Broomsticks",
-	option2: " Leaky Couldron",
-	option3: " Hogs Head Inn",
-	option4: " HoneyDukes",
+	option1: "Three Broomsticks",
+	option2: "Leaky Couldron",
+	option3: "Hogs Head Inn",
+	option4: "HoneyDukes",
 	answer: "Hogs Head Inn",
 	info: "<img src='assets/images/q5.jpg'>"
 };
 
 var q6 = {
 	question: "Which type of magical creature carries Sirius Black away from Hogwarts?",
-	option1: " Hippograff",
-	option2: " Dragon",
-	option3: " Unicorn",
-	option4: " Thestral",
+	option1: "Hippograff",
+	option2: "Dragon",
+	option3: "Unicorn",
+	option4: "Thestral",
 	answer: "Hippogriff",
 	info: "<img src='assets/images/q6.jpg'>"
 };
 
 var q7 = {
 	question: "Which is the house ghost of Ravenclaw?",
-	option1: " The Fat Friar",
-	option2: " Nearly headless Nick",
-	option3: " The Grey Lady",
-	option4: " The Bloody Baron",
+	option1: "The Fat Friar",
+	option2: "Nearly headless Nick",
+	option3: "The Grey Lady",
+	option4: "The Bloody Baron",
 	answer: "The Grey Lady",
 	info: "<img src='assets/images/q7.jpg'>"
 };
 
 var q8 = {
 	question: "Which of the Weasleys went to Romania to study dragons?",
-	option1: " Charlie",
-	option2: " Bill",
-	option3: " Percy",
-	option4: " George",
+	option1: "Charlie",
+	option2: "Bill",
+	option3: "Percy",
+	option4: "George",
 	answer: "Charlie",
 	info: "<img src='assets/images/q8.jpg'>"
 };
 
 var q9 = {
 	question: "What position on the Gryffindor Quidditch team did Harry Potter play?",
-	option1: " Seeker",
-	option2: " Beater",
-	option3: " Chaser",
-	option4: " Keeper",
+	option1: "Seeker",
+	option2: "Beater",
+	option3: "Chaser",
+	option4: "Keeper",
 	answer: "Seeker",
 	info: "<img src='assets/images/q9.jpg'>"
 };
 
 var q10 = {
 	question: "What is Albus Dumbledore's full name?",
-	option1: " Albus Peverell Wulfric Brian Dumbledore",
-	option2: " Albus Peverell Brian Dumbledore",
-	option3: " Albus Percival Wulfric Brian Dumbledore",
-	option4: " Albus Percival Bilius Dumbledore",
+	option1: "Albus Peverell Wulfric Brian Dumbledore",
+	option2: "Albus Peverell Brian Dumbledore",
+	option3: "Albus Percival Wulfric Brian Dumbledore",
+	option4: "Albus Percival Bilius Dumbledore",
 	answer: "Albus Percival Wulfric Brian Dumbledore",
 	info: "<img src='assets/images/q10.jpg'>"
 };
