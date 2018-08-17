@@ -167,6 +167,7 @@ function timeout() {
 function rightanswer() {
 	$(".question").html("<p>Correct!</p>");
 	$(".info").html("<p>" + questions[num].info + "</p>");
+	stoptimer();
 }
 
 // Counts a wrong answer, tells the user they are wrong, and displays an image. 
@@ -174,6 +175,7 @@ function wronganswer() {
 	Incorrect++;
 	$(".question").html("<p>Wrong! <br> The correct answer was: " + questions[num].answer + "</p>");
 	$(".info").html("<p>" + questions[num].info + "</p>");
+	stoptimer();
 }
 
 // Tells the user how many questions they got right/wrong/unanswered. Resets variables and shows buttons so the user can play again. 
