@@ -5,7 +5,7 @@ var q1 = {
 	option3: "Resurrection Stone",
 	option4: "Deluminator",
 	answer: "Cloak of Invisibility",
-	info: "<img src='assets/images/q1.jpg'"	
+	info: "<img src='assets/images/q1.jpg'>"	
 };
 
 var q2 = {
@@ -15,7 +15,7 @@ var q2 = {
 	option3: "Harry Potter",
 	option4: "Neville Longbottom",
 	answer: "Neville Longbottom",
-	info: "<img src='assets/images/q2.jpg"
+	info: "<img src='assets/images/q2.jpg'>"
 };
 
 var q3 = {
@@ -54,7 +54,7 @@ var q6 = {
 	option2: "Dragon",
 	option3: "Unicorn",
 	option4: "Thestral",
-	answer: "Hippogriff",
+	answer: "Hippograff",
 	info: "<img src='assets/images/q6.jpg'>"
 };
 
